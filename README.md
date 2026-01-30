@@ -1,6 +1,6 @@
 # Lawyers2Go API (Django)
 
-Django port of the Lawyers2Go API. Same endpoints as the original Express API, using **MySQL** and a **module monolith** structure.
+Django port of the Lawyers2Go API. 
 
 ## Structure (module monolith)
 
