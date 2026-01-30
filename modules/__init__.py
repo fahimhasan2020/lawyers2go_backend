@@ -1,0 +1,1 @@
+# Module monolith - domain apps
